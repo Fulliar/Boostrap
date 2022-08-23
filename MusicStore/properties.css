@@ -1,0 +1,30 @@
+.welcomer{
+    text-align: center;
+    margin-top: 50px;
+    color:red;
+    padding-bottom: 20px;
+}
+.mainList{
+    text-align: center;
+    font-weight: bold;
+    list-style-position: inside;
+}
+.titler{
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+    font-weight: lighter;
+}
+
+.texthakkımda{
+    margin-top: 2%;
+
+    font-size: 15px;
+}
+
+.subtitlerhakkımda{
+
+    color: rgb(139, 115, 8);
+    font-size: 24px;
+    font-weight: bold;
+}
